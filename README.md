@@ -53,6 +53,10 @@ python3 run.py --type-test --visual-False
 python3 DP.py
 ```
 
-It's so sad that we finally got an Hornerable Prize.
+''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+It's not as expected that we finally got an Hornerable Prize. But we've learned a lot from this tiring but happy experience!
+
+The PDF file is uploaded now.
 
 ![26021e129cfb491ed9d6bc49684f0e2](https://user-images.githubusercontent.com/79912692/167284576-8d8da925-3a31-4d8b-b2f5-2aff95179f30.png)
